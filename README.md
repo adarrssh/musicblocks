@@ -54,7 +54,7 @@ welcome to participate in the evolution of Music Blocks.
 - [Code of Conduct](#MODIFYING_MUSIC_BLOCKS)
 - [Contributing](#MODIFYING_MUSIC_BLOCKS)
 - [Modifying Music Blocks](#MODIFYING_MUSIC_BLOCKS)
-- [Reporting Bugs](#REPORTING_BUGS)
+- [Reporting Bugs](#REPORTINGBUGS)
 
 **Refer to the following for more information regarding the evolution
   of this project:**
@@ -282,7 +282,7 @@ provides a general overview of Sugar Lab's guidelines. See
 [Contributing](#CONTRIBUTING) section for specific details about this
 repository.
 
-## <a name="REPORTINGBUGS"></a>Reporting Bugs
+## <a id="REPORTINGBUGS"></a>Reporting Bugs
 
 Bugs can be reported in the [issues
 tab](https://github.com/sugarlabs/musicblocks/issues) of this
