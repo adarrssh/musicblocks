@@ -51,6 +51,10 @@ welcome to participate in the evolution of Music Blocks.
 - [Contributing](#CONTRIBUTING)
 - [Modifying Music Blocks](#MODIFYING_MUSIC_BLOCKS)
 - [Reporting Bugs](#REPORTING_BUGS)
+- [Code of Conduct](#MODIFYING_MUSIC_BLOCKS)
+- [Contributing](#CONTRIBUTING)
+- [Modifying Music Blocks](#MODIFYING_MUSIC_BLOCKS)
+- [Reporting Bugs](#REPORTING_BUGS)
 
 **Refer to the following for more information regarding the evolution
   of this project:**
